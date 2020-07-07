@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">kuissederhana</string>
+    <string name="main_activity">Soal</string>
+    <string name="finish">Close</string>
+    <string name="next">Next</string>
+    <string name="txt_judul">\n\nTugas Membuat Kuis Sederhana\n\n\n\n\n</string>
+
+    <string name="txt_kelompok">
+        \n\n\nKelompok 4 - 6 MI D\n\n\n1. Anjar Firstyantika  (061740831996)\n2. Hilalia Sulistiana\n(061740832003)\n3. Novy Rika Rahmawati (061740832011)
+    </string>
+    <string name="txt_selesai"> Anda Telah Menyelesaikan Quiz \n\n Terimakasih!!\n\n</string>
+    <string name="move_activity" />
+</resources>
